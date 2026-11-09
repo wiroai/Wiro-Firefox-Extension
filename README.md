@@ -11,6 +11,10 @@ The shared code (sign-in, MCP client, actions, gateway, pricing, panel) lives in
 
 ## Build
 
+Requirements: macOS or Linux, Node.js 22 or newer (built with 22.16.0) and npm 10 or newer. The build bundles the TypeScript and Preact sources with esbuild (no minifying); `package-lock.json` pins every dependency.
+
+From a source archive, skip the clone and run the remaining steps in its root. From git:
+
 ```bash
 git clone --recurse-submodules https://github.com/wiroai/Wiro-Firefox-Extension.git
 cd Wiro-Firefox-Extension
@@ -20,6 +24,8 @@ npm run typecheck
 npm run build
 npm run lint
 ```
+
+The add-on is then in `dist/`; `npm run package` zips it into `web-ext-artifacts/`.
 
 To try it, open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on** and pick `dist/manifest.json`.
 

@@ -53,6 +53,8 @@ Each action lists the Wiro models made for it, so new models show up without an 
 
 The store link will appear here once the listing is live on addons.mozilla.org. To try it now, build it from source (below), open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on** and pick `dist/manifest.json`.
 
+In Chrome, Brave, Vivaldi or Arc, install Wiro AI from the [Chrome Web Store](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab); in Whale, from the [Naver Whale Store](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle).
+
 ## Build
 
 Requirements: macOS or Linux, Node.js 22 or newer (built with 22.16.0) and npm 10 or newer. The build bundles the TypeScript and Preact sources with esbuild (no minifying); `package-lock.json` pins every dependency.

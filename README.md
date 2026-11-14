@@ -51,7 +51,7 @@ Each action lists the Wiro models made for it, so new models show up without an 
 
 ## Install
 
-The store link will appear here once the listing is live on addons.mozilla.org. To try it now, build it from source (below), open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on** and pick `dist/manifest.json`.
+Install it from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/wiro-ai/). There is more about the add-on at [wiro.ai/browser-extension](https://wiro.ai/browser-extension). To try a build from source instead (below), open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on** and pick `dist/manifest.json`.
 
 In Chrome, Brave, Vivaldi or Arc, install Wiro AI from the [Chrome Web Store](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab); in Whale, from the [Naver Whale Store](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle).
 

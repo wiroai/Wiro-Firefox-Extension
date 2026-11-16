@@ -6,6 +6,8 @@
 
 Right-click any image, video, audio clip, text or page to run Wiro AI models in Firefox's sidebar: make a video, edit or upscale an image, restore a photo, read text aloud, transcribe, translate and more, with the price shown before every run.
 
+**[Install Firefox Add-on](https://addons.mozilla.org/firefox/addon/wiro-ai/)** · **[Install Chrome Extension](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab)** · **[Install on Naver Whale](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle)**
+
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-111111?style=for-the-badge&color=111111)](./manifest.json) [![Firefox 140+](https://img.shields.io/badge/Firefox-140%2B-111111?style=for-the-badge&color=111111)](#build) [![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&color=111111)](./tsconfig.json) [![License: MIT](https://img.shields.io/badge/license-MIT-111111?style=for-the-badge&color=111111)](./LICENSE)
 
 [Website](https://wiro.ai) · [Models](https://wiro.ai/models) · [Docs](https://wiro.ai/docs) · [Dashboard](https://wiro.ai/panel)

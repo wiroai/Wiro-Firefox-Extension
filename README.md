@@ -6,7 +6,7 @@
 
 Right-click any image, video, audio clip, text or page to run Wiro AI models in Firefox's sidebar: make a video, edit or upscale an image, restore a photo, read text aloud, transcribe, translate and more, with the price shown before every run.
 
-**[Install Firefox Add-on](https://addons.mozilla.org/firefox/addon/wiro-ai/)** · **[Install Chrome Extension](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab)** · **[Install on Naver Whale](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle)**
+**[Install Firefox Add-on](https://addons.mozilla.org/firefox/addon/wiro-ai/)** · **[Install Chrome Extension](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab)** · **[Install Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/wiro-ai-tools-for-images/obkibkhehpojlejdoinhlmoofalgaddg)** · **[Install on Naver Whale](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle)**
 
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-111111?style=for-the-badge&color=111111)](./manifest.json) [![Firefox 140+](https://img.shields.io/badge/Firefox-140%2B-111111?style=for-the-badge&color=111111)](#build) [![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&color=111111)](./tsconfig.json) [![License: MIT](https://img.shields.io/badge/license-MIT-111111?style=for-the-badge&color=111111)](./LICENSE)
 
@@ -55,7 +55,7 @@ Each action lists the Wiro models made for it, so new models show up without an 
 
 Install it from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/wiro-ai/). There is more about the add-on at [wiro.ai/browser-extension](https://wiro.ai/browser-extension). To try a build from source instead (below), open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on** and pick `dist/manifest.json`.
 
-In Chrome, Brave, Vivaldi or Arc, install Wiro AI from the [Chrome Web Store](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab); in Whale, from the [Naver Whale Store](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle).
+In Chrome, Brave, Vivaldi or Arc, install Wiro AI from the [Chrome Web Store](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab); in Edge, from [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/wiro-ai-tools-for-images/obkibkhehpojlejdoinhlmoofalgaddg); in Whale, from the [Naver Whale Store](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle).
 
 ## Build
 
